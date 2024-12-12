@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Noorg Blog</title>
+        <link>https://noorg.dev/blog</link>
+        <description>Noorg Blog</description>
+        <lastBuildDate>Wed, 04 Dec 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Noorg is born 🎉]]></title>
+            <link>https://noorg.dev/blog/noorg-is-born</link>
+            <guid>https://noorg.dev/blog/noorg-is-born</guid>
+            <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[banner]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="banner" src="https://noorg.dev/assets/images/banner-acd6a13721d595172de9501e7deb7452.png" width="800" height="200" class="img_ev3q"></p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="capture-everything-organize-nothing-"><strong>Capture Everything, Organize Nothing</strong> 📝<a href="https://noorg.dev/blog/noorg-is-born#capture-everything-organize-nothing-" class="hash-link" aria-label="Direct link to capture-everything-organize-nothing-" title="Direct link to capture-everything-organize-nothing-">​</a></h2>
+<p>In a world with an abundance of note-taking tools, <strong>Noorg</strong> offers a different approach to managing your thoughts, ideas, and knowledge. Whether you're a developer, a creative, or simply someone who loves to take notes, Noorg was designed with one core principle: <strong>focus on capturing ideas, not organizing them</strong>.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-noorg-"><strong>Why Noorg?</strong> 🤔<a href="https://noorg.dev/blog/noorg-is-born#why-noorg-" class="hash-link" aria-label="Direct link to why-noorg-" title="Direct link to why-noorg-">​</a></h2>
+<p>Traditional note-taking systems often demand meticulous organization, rigid hierarchies, and time-consuming curation. Noorg is here to liberate you from these constraints. Inspired by the philosophy of <strong>"just write it down"</strong>, Noorg shifts the focus from organization to effortless <strong>capture</strong> and <strong>processing</strong>.</p>
+<p>Imagine being able to:</p>
+<ul>
+<li>Write freely in any editor of your choice (Vim, Emacs, VSCode, Obsidian—you name it).</li>
+<li>Automatically annotate and process notes using <strong>dynamic metadata</strong>.</li>
+<li>Extend functionality with powerful integrations written in <strong>Python, Lua, and Rust</strong>.</li>
+<li>Focus on what matters most: your ideas.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="who-is-noorg-for-"><strong>Who Is Noorg For?</strong> 🌟<a href="https://noorg.dev/blog/noorg-is-born#who-is-noorg-for-" class="hash-link" aria-label="Direct link to who-is-noorg-for-" title="Direct link to who-is-noorg-for-">​</a></h2>
+<p>Noorg is for everyone who wants a tool that adapts to their workflows rather than the other way around. It’s ideal for:</p>
+<ul>
+<li>Developers who prefer working in their favorite editors.</li>
+<li>Writers who need a system that doesn’t get in the way of creativity.</li>
+<li>Knowledge workers tired of rigid folder structures and endless tagging.</li>
+<li>Hobbyists who want to experiment with automation and integrations.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="warning-note-noorg-is-currently-in-pre-alpha-so-expect-bugs-and-instability-your-feedback-is-crucial-to-shaping-its-future-also-it-is-only-available-for-macos-currently">⚠️<!-- --> <strong>Note</strong>: Noorg is currently in <strong>pre-alpha</strong>, so expect bugs and instability. Your feedback is crucial to shaping its future. Also it is only available for MacOS currently.<a href="https://noorg.dev/blog/noorg-is-born#warning-note-noorg-is-currently-in-pre-alpha-so-expect-bugs-and-instability-your-feedback-is-crucial-to-shaping-its-future-also-it-is-only-available-for-macos-currently" class="hash-link" aria-label="Direct link to warning-note-noorg-is-currently-in-pre-alpha-so-expect-bugs-and-instability-your-feedback-is-crucial-to-shaping-its-future-also-it-is-only-available-for-macos-currently" title="Direct link to warning-note-noorg-is-currently-in-pre-alpha-so-expect-bugs-and-instability-your-feedback-is-crucial-to-shaping-its-future-also-it-is-only-available-for-macos-currently">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-makes-noorg-special-"><strong>What Makes Noorg Special?</strong> ✨<a href="https://noorg.dev/blog/noorg-is-born#what-makes-noorg-special-" class="hash-link" aria-label="Direct link to what-makes-noorg-special-" title="Direct link to what-makes-noorg-special-">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="editor-agnostic-and-seamless-integration-"><strong>Editor-Agnostic and Seamless Integration</strong> 🔗<a href="https://noorg.dev/blog/noorg-is-born#editor-agnostic-and-seamless-integration-" class="hash-link" aria-label="Direct link to editor-agnostic-and-seamless-integration-" title="Direct link to editor-agnostic-and-seamless-integration-">​</a></h3>
+<p>Noorg is not tied to any specific editor, meaning you can use it with your favorite tools. Write in Markdown, enrich your notes with frontmatter metadata, and let Noorg handle the rest.</p>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="dynamic-observers-"><strong>Dynamic Observers</strong> 👀<a href="https://noorg.dev/blog/noorg-is-born#dynamic-observers-" class="hash-link" aria-label="Direct link to dynamic-observers-" title="Direct link to dynamic-observers-">​</a></h3>
+<p>Leveraging the <strong>observer pattern</strong>, Noorg provides real-time note processing without breaking your flow. For instance:</p>
+<ul>
+<li>A <strong>time tracker</strong> monitors how much time you spend on topics.</li>
+<li><strong>Inline tags</strong> dynamically create a tagging system.</li>
+<li>Observers can even generate a daily journal or tag notes based on content.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="extensible-runtime-"><strong>Extensible Runtime</strong> 🔧<a href="https://noorg.dev/blog/noorg-is-born#extensible-runtime-" class="hash-link" aria-label="Direct link to extensible-runtime-" title="Direct link to extensible-runtime-">​</a></h3>
+<p>At its heart, Noorg is a highly extensible runtime. Want to customize it? Use <strong>Python</strong>, <strong>Lua</strong>, or <strong>Rust</strong> to build your own note-processing workflows, from automatic tagging to complex data integrations. The possibilities are endless:</p>
+<ul>
+<li>Create <strong>Kanban boards</strong> for project tracking.</li>
+<li>Automate <strong>time tracking</strong> and <strong>task prioritization</strong>.</li>
+<li>Develop custom <strong>dynamic views</strong> with SQL-like queries.</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="offline-first-and-free-"><strong>Offline-First and Free</strong> 🌐<a href="https://noorg.dev/blog/noorg-is-born#offline-first-and-free-" class="hash-link" aria-label="Direct link to offline-first-and-free-" title="Direct link to offline-first-and-free-">​</a></h3>
+<p>Noorg respects your privacy and autonomy. It’s fully offline, with no cloud dependencies, free, and open source. Your notes stay with you, and the community drives its growth.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="use-cases-what-can-you-do-with-noorg-"><strong>Use Cases: What Can You Do with Noorg?</strong> 💡<a href="https://noorg.dev/blog/noorg-is-born#use-cases-what-can-you-do-with-noorg-" class="hash-link" aria-label="Direct link to use-cases-what-can-you-do-with-noorg-" title="Direct link to use-cases-what-can-you-do-with-noorg-">​</a></h2>
+<ol>
+<li><strong>Dynamic Journaling</strong>: Automatically compile a daily journal from your notes.</li>
+<li><strong>Kanban Boards</strong>: Organize tasks visually.</li>
+<li><strong>Tagging Systems</strong>: Use inline tags to categorize and create dynamic note views.</li>
+<li><strong>Time Tracking</strong>: Monitor your focus and productivity.</li>
+<li><strong>Custom Automation</strong>: Build workflows with Python, Lua, or Rust, such as integrating APIs or generating reports.</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="why-noorg-was-created-️"><strong>Why Noorg Was Created</strong> 🛠️<a href="https://noorg.dev/blog/noorg-is-born#why-noorg-was-created-%EF%B8%8F" class="hash-link" aria-label="Direct link to why-noorg-was-created-️" title="Direct link to why-noorg-was-created-️">​</a></h2>
+<p>Noorg was born out of frustration with overly complex note-taking systems. It’s for the thinkers who just want to capture their thoughts without the cognitive overhead of organizing them. It's for those who value simplicity, adaptability, and innovation in their tools.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="caution-pre-alpha-stage-️"><strong>Caution: Pre-Alpha Stage</strong> ⚠️<a href="https://noorg.dev/blog/noorg-is-born#caution-pre-alpha-stage-%EF%B8%8F" class="hash-link" aria-label="Direct link to caution-pre-alpha-stage-️" title="Direct link to caution-pre-alpha-stage-️">​</a></h2>
+<p>Noorg is currently in <strong>pre-alpha</strong>, which means it’s powerful but still evolving. Bugs and instability may occur, so we encourage you to experiment cautiously and back up your data. Your feedback will help shape Noorg into the ultimate note-taking platform.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="join-the-noorg-community-"><strong>Join the Noorg Community</strong> 🤝<a href="https://noorg.dev/blog/noorg-is-born#join-the-noorg-community-" class="hash-link" aria-label="Direct link to join-the-noorg-community-" title="Direct link to join-the-noorg-community-">​</a></h2>
+<p>Noorg is <strong>free</strong>, <strong>open source</strong>, and <strong>community-driven</strong>. We believe in building tools together that empower people to think freely and creatively. Join us on this journey to redefine note-taking.</p>
+<ul>
+<li><a href="https://github.com/realjockel/noorg" target="_blank" rel="noopener noreferrer">GitHub Repository</a></li>
+<li><a href="https://github.com/realjockel/noorg#readme" target="_blank" rel="noopener noreferrer">Documentation</a></li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="get-started-today-"><strong>Get Started Today</strong> 🚀<a href="https://noorg.dev/blog/noorg-is-born#get-started-today-" class="hash-link" aria-label="Direct link to get-started-today-" title="Direct link to get-started-today-">​</a></h2>
+<p>Install Noorg and experience a new way of managing your thoughts:</p>
+<p>Start here:</p>
+<p><a href="https://noorg.dev/docs/intro">Get Started</a></p>]]></content:encoded>
+            <category>announcement</category>
+        </item>
+    </channel>
+</rss>
