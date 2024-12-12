@@ -10,6 +10,9 @@ Let's discover **Noorg in less than 5 minutes**.
 
 ## Getting Started
 
+**Caution**: Noorg is currently in a pre-alpha stage. While it offers powerful features, it is still under active development and may not be stable. We strongly advise starting slowly and backing up your note directory regularly. Experiment with Noorg in a safe environment to discover its potential without risking your important data.
+
+
 Get started by **installing the prerequisites**.
 
 ### What you'll need

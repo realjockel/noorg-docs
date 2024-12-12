@@ -85,13 +85,14 @@ Noorg was born out of frustration with overly complex note-taking systems. It’
 
 ## **Caution: Pre-Alpha Stage** ⚠️
 
-Noorg is currently in **pre-alpha**, which means it’s powerful but still evolving. Bugs and instability may occur, so we encourage you to experiment cautiously and back up your data. Your feedback will help shape Noorg into the ultimate note-taking platform.
+**Caution**: Noorg is currently in a pre-alpha stage. While it offers powerful features, it is still under active development and may not be stable. We strongly advise starting slowly and backing up your note directory regularly. Experiment with Noorg in a safe environment to discover its potential without risking your important data.
 
 ---
 
 ## **Join the Noorg Community** 🤝
 
 Noorg is **free**, **open source**, and **community-driven**. We believe in building tools together that empower people to think freely and creatively. Join us on this journey to redefine note-taking.
+
 
 - [GitHub Repository](https://github.com/realjockel/noorg)
 - [Documentation](https://github.com/realjockel/noorg#readme)
