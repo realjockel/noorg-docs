@@ -303,3 +303,11 @@ Sick days: 0
 - **Example Output**: `#project`
 
 -> See [inline_tags.py](https://github.com/realjockel/noorg/blob/main/resources/default_scripts/python/inline_tags.py) for the full implementation.
+
+
+### 8. Code Bookmarks Observer (Python)
+`code_bookmarks.py` - Extracts code blocks from notes and saves them in a bookmarks file.
+
+- **Purpose**: Extracts code blocks from notes and saves them in a bookmarks file. Groups code blocks by language.
+
+-> See [code_bookmarks.py](https://github.com/realjockel/noorg/blob/main/resources/default_scripts/python/code_bookmarks.py) for the full implementation.
