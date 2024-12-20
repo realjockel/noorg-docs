@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknoorg_docs=self.webpackChunknoorg_docs||[]).push([[8121],{8070:n=>{n.exports=JSON.parse('{"tags":[{"label":"announcement","permalink":"/blog/tags/announcement","description":"Announcements for Noorg","count":2}]}')}}]);
